@@ -7,12 +7,18 @@ div{
 	margin:auto;
 	padding:2px;
 }
+#pagina{
+	width:960px;
+	background-color:rgb(128,128,128);
+	border:1px solid cyan;
+	border-radius:4px;
+}
 div a {
 	text-decoration:none;
 }
 a:Link, a:visited{
 	text-decoration:none;
-	background-color:rgb(128,128,128);
+	/*background-color:rgb(128,128,128);*/
 }
 a:hover{
 	text-decoration:none;
@@ -31,5 +37,5 @@ p{
 	width:960px;
 	margin:auto;
 	border:1px solid red;
-	border-radius:10px;
+	border-radius:5px;
 }
