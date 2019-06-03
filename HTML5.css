@@ -1,0 +1,35 @@
+body{
+	font-family:sans-serif;
+	background-color:orange;
+}
+div{
+	width:960px;
+	margin:auto;
+	padding:2px;
+}
+div a {
+	text-decoration:none;
+}
+a:Link, a:visited{
+	text-decoration:none;
+	background-color:rgb(128,128,128);
+}
+a:hover{
+	text-decoration:none;
+	background-color:rgb(211,211,211);
+}
+a{
+	color:white;
+}
+h1, h2{
+	text-align:center;
+}
+p{
+	font-size:14px;
+	color:black;
+	background-color:rgb(0,191,255, 0.3);
+	width:960px;
+	margin:auto;
+	border:1px solid red;
+	border-radius:10px;
+}
