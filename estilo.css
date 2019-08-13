@@ -87,8 +87,13 @@ footer{
 	background: green;
 	width:660px;
 }
-footer ul{
+footer ul li{
+	list-style:none;
+}
+footer ul li a{
 	list-style: none;
 	padding-left: 0;
 	font-size:14px;
-}
+	display:inline-flex;
+	text-decoration:none;
+	}
